@@ -1,0 +1,10 @@
+{
+  "name": "NewProject_1",
+  "uuid": "3cc8a271-6ced-4d94-bf1b-5d0a2f0a8f67",
+  "creator": {
+    "version": "3.8.2"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.12"
+  }
+}

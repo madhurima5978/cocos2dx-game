@@ -1,0 +1,199 @@
+{
+  "__version__": "1.3.7",
+  "log": {
+    "level": 4
+  },
+  "common": {
+    "polyfills": {
+      "asyncFunctions": true
+    },
+    "buildPath": "project://build",
+    "outputName": "web-desktop",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "web-desktop"
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1712670372564": {
+        "type": "build",
+        "id": "1712670372564",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "4-9-2024 19:20:34 run package C:\\Users\\DELL\\NewProject_1\\build\\web-mobile success!",
+        "options": {
+          "name": "NewProject_1",
+          "server": "",
+          "platform": "web-mobile",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666",
+          "outputName": "web-mobile",
+          "taskName": "web-mobile",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/scene.scene",
+              "uuid": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-mobile9-4-2024 19-16.log"
+        },
+        "time": "9-4-2024 19:16:12",
+        "dirty": false
+      },
+      "1712670871857": {
+        "type": "build",
+        "id": "1712670871857",
+        "progress": 1,
+        "state": "success",
+        "stage": "build",
+        "message": "4-9-2024 19:43:43 build success in 1 min 13 s!",
+        "options": {
+          "name": "NewProject_1",
+          "server": "",
+          "platform": "android",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666",
+          "outputName": "android",
+          "taskName": "android",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/scene.scene",
+              "uuid": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/android9-4-2024 19-24.log"
+        },
+        "time": "9-4-2024 19:42:29",
+        "dirty": false
+      },
+      "1712673383874": {
+        "type": "build",
+        "id": "1712673383874",
+        "progress": 1,
+        "state": "failure",
+        "stage": "build",
+        "message": "4-9-2024 20:07:40 build task failed! run cmake failed \"cmake -S\"C:/Users/DELL/NewProject_1/native/engine/win64\" -B\"C:/Users/DELL/NewProject_1/build/windows/proj\" -DRES_DIR=\"C:/Users/DELL/NewProject_1/build/windows\" -DAPP_NAME=\"NewProject_1\" -DLAUNCH_TYPE=\"Release\"\", code: 1, signal: null",
+        "options": {
+          "name": "NewProject_1",
+          "server": "",
+          "platform": "windows",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": false
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666",
+          "outputName": "windows",
+          "taskName": "windows",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/scene.scene",
+              "uuid": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666"
+            }
+          ],
+          "buildMode": "normal",
+          "packages": {},
+          "__version__": "1.3.7",
+          "logDest": "project://temp/builder/log/windows9-4-2024 20-06.log"
+        },
+        "time": "9-4-2024 20:07:30",
+        "dirty": false
+      },
+      "1712673520475": {
+        "type": "build",
+        "id": "1712673520475",
+        "progress": 1,
+        "state": "success",
+        "stage": "run",
+        "message": "4-9-2024 20:10:01 run package C:\\Users\\DELL\\NewProject_1\\build\\web-desktop success!",
+        "options": {
+          "name": "NewProject_1",
+          "server": "",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "skipCompressTexture": false,
+          "sourceMaps": false,
+          "polyfills": {
+            "asyncFunctions": true
+          },
+          "experimentalEraseModules": false,
+          "startSceneAssetBundle": false,
+          "bundleConfigs": [],
+          "useBuiltinServer": false,
+          "mainBundleIsRemote": false,
+          "mainBundleCompressionType": "merge_dep",
+          "useSplashScreen": true,
+          "bundleCommonChunk": false,
+          "packAutoAtlas": true,
+          "startScene": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666",
+          "outputName": "web-desktop",
+          "taskName": "web-desktop",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/scene.scene",
+              "uuid": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666"
+            }
+          ],
+          "packages": {},
+          "__version__": "1.3.7",
+          "buildMode": "normal",
+          "logDest": "project://temp/builder/log/web-desktop9-4-2024 20-08.log"
+        },
+        "time": "9-4-2024 20:08:40",
+        "dirty": false
+      }
+    }
+  }
+}

@@ -1,0 +1,375 @@
+9-4-2024 20:05:08 - log: Load engine in C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine
+9-4-2024 20:05:08 - log: Profile changed: engine (modules.includeModules: 2d,animation,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,particle-2d,physics-2d-box2d,profiler,spine,tiled-map,tween,ui,video,webview)
+9-4-2024 20:05:09 - log: Register native engine in C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\native
+9-4-2024 20:05:26 - log: [Scene] meshopt wasm decoder initialized
+9-4-2024 20:05:26 - log: [Scene] [box2d]:box2d wasm lib loaded.
+9-4-2024 20:05:26 - log: [Scene] [bullet]:bullet wasm lib loaded.
+9-4-2024 20:05:27 - log: [Scene] [PHYSICS]: using builtin.
+9-4-2024 20:05:27 - log: [Scene] Cocos Creator v3.8.2
+9-4-2024 20:05:27 - info: [Scene] Forward render pipeline initialized.
+9-4-2024 20:05:28 - log: [Scene] [PHYSICS2D]: switch from box2d-wasm to box2d.
+9-4-2024 20:05:52 - info: [Window] Download the Vue Devtools extension for a better development experience:
+https://github.com/vuejs/vue-devtools
+9-4-2024 20:05:52 - info: [Window] You are running Vue in development mode.
+Make sure to turn on production mode when deploying for production.
+See more tips at https://vuejs.org/guide/deployment.html
+9-4-2024 20:06:16 - log: [Window] Create temp dir C:\Users\DELL\AppData\Local\Temp\cmake-vsp5djN7
+9-4-2024 20:06:31 - warn: [Assets] [build-script][[Build.Script.Rollup]] Circular dependency: file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/Ground.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts
+[Assets] [build-script][[Build.Script.Rollup]] Circular dependency: file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/Ground.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts
+  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1530)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2267)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\worker-pools\sub-process-manager.ccc:1:3499)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)
+9-4-2024 20:07:20 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Generator
+
+    Visual Studio 17 2022
+
+  could not find any instance of Visual Studio.
+
+
+
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Generator
+
+    Visual Studio 17 2022
+
+  could not find any instance of Visual Studio.
+
+
+
+  
+could not find any instance of Visual Studio.  
+  
+  
+  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:20 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Generator
+
+    Visual Studio 16 2019
+
+  could not find any instance of Visual Studio.
+
+
+
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Generator
+
+    Visual Studio 16 2019
+
+  could not find any instance of Visual Studio.
+
+
+
+  
+could not find any instance of Visual Studio.  
+  
+  
+  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:21 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Generator
+
+    Visual Studio 15 2017
+
+  could not find any instance of Visual Studio.
+
+
+
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Generator
+
+    Visual Studio 15 2017
+
+  could not find any instance of Visual Studio.
+
+
+
+  
+could not find any instance of Visual Studio.  
+  
+  
+  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:21 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Failed to run MSBuild command:
+
+    MSBuild.exe
+
+  to get the value of VCTargetsPath:
+
+    The system cannot find the file specified
+
+
+
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Failed to run MSBuild command:
+
+    MSBuild.exe
+
+  to get the value of VCTargetsPath:
+
+    The system cannot find the file specified
+
+
+
+  
+to get the value of VCTargetsPath:  
+  
+The system cannot find the file specified  
+  
+  
+  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:21 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Failed to run MSBuild command:
+
+    MSBuild.exe
+
+  to get the value of VCTargetsPath:
+
+    The system cannot find the file specified
+
+
+
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Failed to run MSBuild command:
+
+    MSBuild.exe
+
+  to get the value of VCTargetsPath:
+
+    The system cannot find the file specified
+
+
+
+  
+to get the value of VCTargetsPath:  
+  
+The system cannot find the file specified  
+  
+  
+  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:22 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+
+
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+
+
+  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:22 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Running
+
+   'nmake' '-?'
+
+  failed with:
+
+   The system cannot find the file specified
+
+
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Running
+
+   'nmake' '-?'
+
+  failed with:
+
+   The system cannot find the file specified
+
+
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+  
+failed with:  
+  
+The system cannot find the file specified  
+  
+  
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:22 - error: [Assets] run cmake failed "cmake -S"C:/Users/DELL/NewProject_1/native/engine/win64" -B"C:/Users/DELL/NewProject_1/build/windows/proj" -DRES_DIR="C:/Users/DELL/NewProject_1/build/windows" -DAPP_NAME="NewProject_1" -DLAUNCH_TYPE="Release"", code: 1, signal: nullError: run cmake failed "cmake -S"C:/Users/DELL/NewProject_1/native/engine/win64" -B"C:/Users/DELL/NewProject_1/build/windows/proj" -DRES_DIR="C:/Users/DELL/NewProject_1/build/windows" -DAPP_NAME="NewProject_1" -DLAUNCH_TYPE="Release"", code: 1, signal: null
+    at ChildProcess.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:484:28)
+    at ChildProcess.emit (events.js:315:20)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.onexit (internal/child_process.js:288:5)
+9-4-2024 20:07:26 - warn: [Assets] [windows run] 'NewProject_1' is not found within ' + C:\Users\DELL\NewProject_1\build\windows\proj\Release!Error: [windows run] 'NewProject_1' is not found within ' + C:\Users\DELL\NewProject_1\build\windows\proj\Release!
+    at WindowsPackTool.run (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\platforms\windows.ts:131:19)
+    at NativePackToolManager.run (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\base\manager.ts:65:20)
+    at PackToolHandler.runTask (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\modules\platform-extensions\extensions\native\dist\builder\native-utils\index.ccc:1:3154)
+    at BuildStageTask.run (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\modules\platform-extensions\extensions\native\dist\builder\hooks.ccc:1:7192)
+    at BuildStageTask.handleHook (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\builder\stage-task-manager.ccc:1:1611)
+    at BuildStageTask.runPluginTask (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\builder\manager\task-base.ccc:1:1226)
+    at BuildStageTask.run (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\builder\stage-task-manager.ccc:1:1370)
+    at excuteBuildStageTask (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\index.ccc:1:7554)
+    at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\msg-util.ccc:1:202)
+9-4-2024 20:07:26 - error: [Assets] run package C:\Users\DELL\NewProject_1\build\windows failed![Assets] run package C:\Users\DELL\NewProject_1\build\windows failed!  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at excuteBuildStageTask (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\index.ccc:1:7655)  
+at Ipc.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\msg-util.ccc:1:202)
+9-4-2024 20:07:37 - warn: [Assets] [build-script][[Build.Script.Rollup]] Circular dependency: file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/Ground.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts
+[Assets] [build-script][[Build.Script.Rollup]] Circular dependency: file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/Ground.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts
+  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1530)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2267)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\worker-pools\sub-process-manager.ccc:1:3499)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:40 - error: [Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Running
+
+   'nmake' '-?'
+
+  failed with:
+
+   The system cannot find the file specified
+
+
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+[Assets] [cmake-err] CMake Error at CMakeLists.txt:4 (project):
+  Running
+
+   'nmake' '-?'
+
+  failed with:
+
+   The system cannot find the file specified
+
+
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage
+  
+failed with:  
+  
+The system cannot find the file specified  
+  
+  
+CMake Error: CMAKE_CXX_COMPILER not set, after EnableLanguage  
+  
+at Object.encode (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\node_modules\v-stacks\index.js:14:17)  
+at Logger._logHandler (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-worker\static\script.ccc:1:531)  
+at Logger.record (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:458)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1414)  
+at Object.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1429)  
+at NewConsole.error (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2183)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:479:29)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)
+9-4-2024 20:07:40 - error: [Assets] run cmake failed "cmake -S"C:/Users/DELL/NewProject_1/native/engine/win64" -B"C:/Users/DELL/NewProject_1/build/windows/proj" -DRES_DIR="C:/Users/DELL/NewProject_1/build/windows" -DAPP_NAME="NewProject_1" -DLAUNCH_TYPE="Release"", code: 1, signal: nullError: run cmake failed "cmake -S"C:/Users/DELL/NewProject_1/native/engine/win64" -B"C:/Users/DELL/NewProject_1/build/windows/proj" -DRES_DIR="C:/Users/DELL/NewProject_1/build/windows" -DAPP_NAME="NewProject_1" -DLAUNCH_TYPE="Release"", code: 1, signal: null
+    at ChildProcess.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\resources\3d\engine\scripts\native-pack-tool\source\utils.ts:484:28)
+    at ChildProcess.emit (events.js:315:20)
+    at maybeClose (internal/child_process.js:1048:16)
+    at Process.onexit (internal/child_process.js:288:5)
+9-4-2024 20:08:49 - warn: [Assets] [build-script][[Build.Script.Rollup]] Circular dependency: file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/Ground.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts
+[Assets] [build-script][[Build.Script.Rollup]] Circular dependency: file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/Ground.ts -> file:///C:/Users/DELL/NewProject_1/assets/Scripts/GameCtrl.ts
+  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\node_modules\@base\electron-logger\lib\renderer.ccc:1:1260)  
+at Object.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\asset-db\dist\worker\console.ccc:1:1530)  
+at NewConsole.warn (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\console.ccc:1:2267)  
+at Socket.<anonymous> (C:\ProgramData\cocos\editors\Creator\3.8.2\resources\app.asar\builtin\builder\dist\worker\worker-pools\sub-process-manager.ccc:1:3499)  
+at Socket.emit (events.js:315:20)  
+at addChunk (internal/streams/readable.js:309:12)  
+at readableAddChunk (internal/streams/readable.js:284:9)  
+at Socket.Readable.push (internal/streams/readable.js:223:10)  
+at Pipe.onStreamRead (internal/stream_base_commons.js:188:23)

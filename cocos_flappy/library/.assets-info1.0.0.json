@@ -1,0 +1,278 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources.meta": {
+      "time": 1712558945200.3857
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources": {
+      "time": 1712559046474.7473,
+      "uuid": "42f7373b-fd46-49fb-8516-9ee9f50bdeef"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Background.meta": {
+      "time": 1712558985497.9868
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Background": {
+      "time": 1712559182072.7844,
+      "uuid": "b28ebfcd-468c-432e-b080-31eaee8440fb"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird.meta": {
+      "time": 1712559003296.548
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird": {
+      "time": 1712559236476.2893,
+      "uuid": "015fc723-7a9a-43bd-b523-73febc0279d7"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Fonts.meta": {
+      "time": 1712559011342.6345
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Fonts": {
+      "time": 1712559673157.0847,
+      "uuid": "8d4f3433-caaf-4c97-9861-d0199ff947e7"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Ground.meta": {
+      "time": 1712559018806.6128
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Ground": {
+      "time": 1712559199604.486,
+      "uuid": "e9813f11-bc3d-4c93-b720-130e5829bf3c"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Pipes.meta": {
+      "time": 1712559025141.0923
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Pipes": {
+      "time": 1712559216206.075,
+      "uuid": "1ee59a63-990c-42ee-ae11-fbaadfc1bc66"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Prefabs.meta": {
+      "time": 1712559036400.1162
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Prefabs": {
+      "time": 1712659940106.228,
+      "uuid": "a74a7b7c-f9a4-4233-8786-d5e7b335e2de"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scenes.meta": {
+      "time": 1712559069744.9526
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scenes": {
+      "time": 1712588103398.4158,
+      "uuid": "29aeb9b8-d1fe-46e3-905e-8a1dcaa61ddc"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts.meta": {
+      "time": 1712559107238.4905
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts": {
+      "time": 1712662874460.652,
+      "uuid": "b5b2693d-24d8-43bd-921d-c818b6332b64"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Animations.meta": {
+      "time": 1712559113974.0208
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Animations": {
+      "time": 1712648410711.0203,
+      "uuid": "bcd655b4-11e5-45af-9de8-fa45d3bb3457"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Background\\background-night.png.meta": {
+      "time": 1712559182107.864
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Background\\background-day.png.meta": {
+      "time": 1712559182145.9773
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Background\\background-night.png": {
+      "time": 1672921039000,
+      "uuid": "9dd30a5c-59eb-4969-b876-902f92f46bed"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Background\\background-day.png": {
+      "time": 1672921039000,
+      "uuid": "844fafdc-f601-4d0e-a229-17bbbbf2aa1b"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Ground\\base.png.meta": {
+      "time": 1712559199637.0405
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Ground\\base.png": {
+      "time": 1672921039000,
+      "uuid": "18e62410-e4ec-4a9d-ba0c-fe524aa6d20e"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Pipes\\pipe-red.png.meta": {
+      "time": 1712559216255.4402
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Pipes\\pipe-green.png.meta": {
+      "time": 1712559216286.6333
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Pipes\\pipe-red.png": {
+      "time": 1672921039000,
+      "uuid": "490af147-f32a-457a-bd72-7e97f8dc3276"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Pipes\\pipe-green.png": {
+      "time": 1672921039000,
+      "uuid": "aa74f395-2291-4cd1-8eeb-f80f586e4dc0"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird\\yellowbird-downflap.png.meta": {
+      "time": 1712559236658.632
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird\\yellowbird-midflap.png.meta": {
+      "time": 1712559236759.2715
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird\\yellowbird-upflap.png.meta": {
+      "time": 1712559236787.1821
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird\\yellowbird-downflap.png": {
+      "time": 1672921039000,
+      "uuid": "bb1c8d6d-6bb9-4965-8ab5-992e11ff6357"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird\\yellowbird-midflap.png": {
+      "time": 1672921039000,
+      "uuid": "90ccc16b-fe58-486a-910a-a230f3c2b870"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Bird\\yellowbird-upflap.png": {
+      "time": 1672921039000,
+      "uuid": "6474cb1c-984d-4c9f-ab09-6fd4b398a527"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Fonts\\FlappyBirdRegular-9Pq0.ttf.meta": {
+      "time": 1712559673173.1292
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Fonts\\FlappyBirdRegular-9Pq0.ttf": {
+      "time": 1670144816000,
+      "uuid": "5f93b277-1a6f-4ba5-8ca3-c073cc5bcee3"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Ground.ts.meta": {
+      "time": 1712560915978.1294
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Ground.ts": {
+      "time": 1712587854289.6406,
+      "uuid": "fd5a8611-a559-4b97-961b-365565e2fcf3"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\GameControl.ts.meta": {
+      "time": 1712587009032.6787
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\GameCtrl.ts": {
+      "time": 1712669789767.7993,
+      "uuid": "7da14550-c715-4d0c-89a7-36fcd19290e3"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\GameCtrl.ts.meta": {
+      "time": 1712587973510.732
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scenes\\scene.scene.meta": {
+      "time": 1712588103437.1094
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scenes\\scene.scene": {
+      "time": 1712670042851.7034,
+      "uuid": "fa890cbe-86c0-4e5a-ae6f-48886d1d3666"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Results.ts.meta": {
+      "time": 1712644181591.8337
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Results.ts": {
+      "time": 1712647537316.2993,
+      "uuid": "0c03fc81-4789-491b-85ec-a40283331900"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Bird.ts.meta": {
+      "time": 1712647668771.8347
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Bird.ts": {
+      "time": 1712662084809.7375,
+      "uuid": "3c788625-f23e-414d-b599-97b11ef0e18d"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Animations\\birdAnimation.anim.meta": {
+      "time": 1712648410726.1309
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Animations\\birdAnimation.anim": {
+      "time": 1712650934643.9277,
+      "uuid": "a6124f6a-6e8f-41a4-b1ad-3acd114a8260"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Pipes.ts.meta": {
+      "time": 1712658393858.8152
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\Pipes.ts": {
+      "time": 1712662989588.4497,
+      "uuid": "8be13190-4745-4747-a2d7-d994c957d956"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Prefabs\\Pipe.prefab.meta": {
+      "time": 1712659940113.222
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Prefabs\\Pipe.prefab": {
+      "time": 1712661704910.7815,
+      "uuid": "b95f843c-079e-46b7-a48d-cf3b1320b7e5"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\PipePool.ts.meta": {
+      "time": 1712660072276.3252
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\PipePool.ts": {
+      "time": 1712660857026.7124,
+      "uuid": "456a9e19-9d48-48fa-afea-3471280b224f"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\BirdAudio.ts.meta": {
+      "time": 1712662874470.8025
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\BirdAudio.ts": {
+      "time": 1712669591796.742,
+      "uuid": "e9faff55-92e0-4a9b-8975-415e0ee91909"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio.meta": {
+      "time": 1712663239447.3025
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio": {
+      "time": 1712669431583.686,
+      "uuid": "e4b768a3-4bc5-41bf-90ee-3d52d2a59e08"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\die.wav.meta": {
+      "time": 1712663276554.6677
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\die.wav": {
+      "time": 1672921039000,
+      "uuid": "fe2d71c5-7f35-40a5-9285-eb78a72b7fe8"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\hit.wav.meta": {
+      "time": 1712663285006.2227
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\hit.wav": {
+      "time": 1672921039000,
+      "uuid": "5c16fdd1-1786-4c29-9daa-bfe08308e128"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\point.wav.meta": {
+      "time": 1712663294126.3752
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\point.wav": {
+      "time": 1672921039000,
+      "uuid": "45cdcc88-b9c2-44da-964d-c08e2b91f56c"
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\wing.ogg.meta": {
+      "time": 1712669427631.1772
+    },
+    "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\wing.ogg": {
+      "time": 1672921039000,
+      "uuid": "97a62716-78cf-4e08-8f12-3c450d2c8cc2"
+    }
+  },
+  "missing": {
+    "535e7b20-84ac-49ad-88f3-078d89a8236e": {
+      "path": "C:\\Users\\DELL\\NewProject_1\\assets\\physics-material.pmtl",
+      "time": 1712558548375.5203,
+      "removeTime": 1712558931121
+    },
+    "a74a7b7c-f9a4-4233-8786-d5e7b335e2de": {
+      "path": "C:\\Users\\DELL\\NewProject_1\\assets\\GameResources\\Prefabs",
+      "time": 1712559036385.2175,
+      "removeTime": 1712559046478
+    },
+    "bcd655b4-11e5-45af-9de8-fa45d3bb3457": {
+      "path": "C:\\Users\\DELL\\NewProject_1\\assets\\ANimations",
+      "time": 1712559113962.775,
+      "removeTime": 1712559121364
+    },
+    "5cc63bc9-8f45-4a4e-8994-8e17fe6fc272": {
+      "path": "C:\\Users\\DELL\\NewProject_1\\assets\\Scripts\\GameControl.ts",
+      "time": 1712587076162.8408,
+      "removeTime": 1712587977677
+    },
+    "cfe4671b-bef7-4602-afae-3b67ee655a41": {
+      "path": "C:\\Users\\DELL\\NewProject_1\\assets\\scene.scene",
+      "time": 1712588045714.7253,
+      "removeTime": 1712588122212
+    },
+    "7ba4a5ba-4568-4279-a15b-e1e05ef44a4f": {
+      "path": "C:\\Users\\DELL\\NewProject_1\\assets\\Audio\\swoosh.wav",
+      "time": 1672921039000,
+      "removeTime": 1712669431612
+    }
+  }
+}
